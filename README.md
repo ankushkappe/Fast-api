@@ -19,7 +19,7 @@ pip install 'uvicorn[standard]'
 Start the Uvicorn server:
 
 uvicorn app.main:app --reload
-Navigate to -http://127.0.0.1:8000 in your browser to see the welcome message.
+Navigate to 'http://127.0.0.1:8000' in your browser to see the welcome message.
 
 Explanation
 Virtual Environment: A self-contained directory that contains a Python installation for a particular version of Python, plus several additional packages.
